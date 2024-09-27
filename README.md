@@ -6,7 +6,7 @@
 
 👾 Ambassador of Women Techmakers and member at Rewriting the Code, empowering women in tech.
 
-💡 Currently working on an Airline Reservation Management System using Java.
+💡 Currently working on an Airline Reservation Management System using Java and SQL.
 
 🛫 Love traveling and expect to finish visiting all states in the next two years.
 
