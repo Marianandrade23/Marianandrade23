@@ -8,6 +8,8 @@
 
 💡 Currently working on an Airline Reservation Management System using Java and SQL.
 
+🤝 I’m looking to collaborate on Software Engineering opportunities
+
 🛫 Love traveling and expect to finish visiting all states in the next two years.
 
 👩🏽‍💻 Programming languages:
