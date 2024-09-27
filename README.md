@@ -8,6 +8,8 @@
 
 💡 Currently working on an Airline Reservation Management System using Java.
 
+🛫 Love traveling and expect to finish visiting all states in the next two years.
+
 👩🏽‍💻 Programming languages:
 
 •I have experience working with a variety of languages, including C#, JavaScript, Python, and Java. 
