@@ -1,16 +1,23 @@
-## Hi there 👋
+# ✨ Hi, I'm Mariana Andrade ✨
 
-<!--
-**Marianandrade23/Marianandrade23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Student of Software and Web Development.
 
-Here are some ideas to get you started:
+⚙️ SWE Fellow at Headstarter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👾 Ambassador of Women Techmakers and member at Rewriting the Code, empowering women in tech.
+
+💡 Currently working on an Airline Reservation Management System using Java.
+
+## ✨ Technologies I've Worked With ✨
+- C#
+- JavaScript
+- Python
+- Java
+- HTML/CSS
+- SQL
+- Git
+- GitHub
+- ASP.NET
+- Next.js
+- React
+- Firebase
