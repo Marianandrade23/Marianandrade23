@@ -1,4 +1,4 @@
-# ✨ Hi, I'm Mariana Andrade ✨
+#  Welcome, nice to meet you!✨
 
 📚 Student of Software and Web Development.
 
