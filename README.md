@@ -2,11 +2,9 @@
 
 📚 Student of Software and Web Development.
 
-⚙️ SWE Fellow at Headstarter
+⚙️ Software Developer at Green Bay Packaging and ex SWE Fellow at Headstarter
 
 👾 Ambassador of Women Techmakers and member at Rewriting the Code, empowering women in tech.
-
-💡 Currently working on an Airline Reservation Management System using Java and SQL.
 
 🤝 I’m looking to collaborate on Software Engineering opportunities
 
@@ -16,7 +14,7 @@
 
 • Experienced with C#, JavaScript, Python, and Java.
 
-• Skilled in web development using HTML, CSS, SQL, and version control with Git and GitHub.
+• Skilled in web development using HTML, CSS, SQL.
 
 • Proficient in building web applications with PHP and ASP.NET, and modern front-end development using Next.js, Figma, Tailwind CSS, and React.
 
