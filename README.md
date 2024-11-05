@@ -2,7 +2,7 @@
 
 📚 Student of Software and Web Development.
 
-⚙️ Software Developer at Green Bay Packaging and ex SWE Fellow at Headstarter
+⚙️ Software Developer Intern at Green Bay Packaging and ex SWE Fellow at Headstarter
 
 👾 Ambassador of Women Techmakers and member at Rewriting the Code, empowering women in tech.
 
