@@ -1,4 +1,4 @@
-#  Welcome, nice to meet you!✨
+#  Welcome!✨
 
 📚 Student of Software Development.
 
