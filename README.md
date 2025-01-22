@@ -14,5 +14,3 @@
 
 • Experienced in developing dynamic web applications with PHP, ASP.NET, and modern frameworks such as Next.js and React, utilizing design tools Figma and Tailwind CSS.
 
-• Skilled in integrating front-end and back-end technologies using Node.js and Firebase.
-
